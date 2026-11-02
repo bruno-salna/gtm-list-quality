@@ -43,7 +43,7 @@ You supply the list and its purpose. The agent works out the naming rules for ea
 ## Part of a series
 This is the second of five guides that chain together through a [shared row schema](schema.md):
 
-[Market map](https://github.com/bruno-salna/gtm-market-map) → **List quality** → ICP + tiering → Signals → Orchestrator
+[Market map](https://github.com/bruno-salna/gtm-market-map) → **List quality** → [ICP + tiering](https://github.com/bruno-salna/gtm-icp-tiering) → Signals → Orchestrator
 
 Each guide works on its own. Used together, each one picks up the previous one's output.
 
